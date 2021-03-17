@@ -1,1 +1,6 @@
-# kotlin-complete
+这是一个kotlin的关键字补全
+
+目前可能有许多bug
+
+欢迎提交使用
+
