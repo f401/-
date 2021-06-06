@@ -1,6 +1,6 @@
 "Vim completion script
 "Language: Kotlin
-"ss
+"soso
 "
 
 fun! IsValDeclaration()
